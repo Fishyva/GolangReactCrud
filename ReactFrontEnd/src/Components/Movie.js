@@ -15,7 +15,7 @@ function Movie() {
             release_date: "2001-03-23",
             runetime: 120,
             mpaa_rating: "PG-13",
-            description: "Movie about ewhoring"
+            description: "Movie about a mom and daughter"
         }
         setMovie(myMovie)
     }, [id]);
